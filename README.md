@@ -22,7 +22,7 @@ Advanced network security tool สำหรับตรวจจับและ�
 
 Dependencies
 ## อัปเดท system
-'sudo apt update'
+**sudo apt update**
 
 ## ติดตั้ง Python packages
 'pip3 install -r requirements.txt'
