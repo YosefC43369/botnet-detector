@@ -171,6 +171,8 @@ self.c2_domains.extend([
 - Custom alert systems
 - Network forensics capabilities
 
+# ⚠️ Disclaimer: เครื่องมือนี้สำหรับการใช้งานด้านการป้องกันและการศึกษาเท่านั้น ผู้ใช้ต้องรับผิดชอบในการใช้งานอย่างถูกกฎหมายและจริยธรรม
+
 ![botnet_detect2](https://github.com/user-attachments/assets/860dd1a3-48d7-4ca9-81e1-8a9f2635b443)
 ![botnet_detect3](https://github.com/user-attachments/assets/3d09dd1e-6047-4af6-9634-32f67782d4bd)
 ![botnet_detect 1](https://github.com/user-attachments/assets/c4c4abf2-51ce-4fff-a9fe-bdb28c07373d)
