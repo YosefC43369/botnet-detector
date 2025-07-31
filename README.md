@@ -23,18 +23,18 @@ Advanced network security tool สำหรับตรวจจับและ�
 # Dependencies
 ```bash
 # อัปเดท system
-sudo apt update
+$ sudo apt update
 
 # ติดตั้ง Python packages
-pip3 install -r requirements.txt
+$ pip3 install -r requirements.txt
 
 # ตรวจสอบ tools ที่จำเป็น (มักมีอยู่แล้วใน Kali)
-which nmap hping3 dig curl
+$ which nmap hping3 dig curl
 ```
 # Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/botnet-detector.git
-cd botnet-detector
-chmod +x botnet_detector.py
+$ git clone https://github.com/yourusername/botnet-detector.git
+$ cd botnet-detector
+$ chmod +x botnet_detector.py
 ```
