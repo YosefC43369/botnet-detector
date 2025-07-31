@@ -38,3 +38,15 @@ $ git clone https://github.com/yourusername/botnet-detector.git
 $ cd botnet-detector
 $ chmod +x botnet_detector.py
 ```
+
+# 🚀 การใช้งาน
+
+## 1. General Monitoring (ตรวจสอบทั่วไป)
+
+```bash
+# ตรวจสอบ botnet ทั่วไป 5 นาที
+$ sudo python3 botnet_detector.py --mode general --duration 300
+
+# ตรวจสอบแบบ verbose
+$ sudo python3 botnet_detector.py --mode general --duration 600 --verbose
+```
