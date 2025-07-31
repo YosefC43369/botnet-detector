@@ -13,3 +13,19 @@ Advanced network security tool สำหรับตรวจจับและ�
 - C&C Communication - หาการเชื่อมต่อกับ Command & Control servers
 - Website-Specific Analysis - วิเคราะห์เว็บไซต์เฉพาะเพื่อหา botnet indicators
 - DDoS Attack Detection - ตรวจจับการโจมตี DDoS
+
+🛠️ การติดตั้ง
+ความต้องการระบบ
+- Kali Linux (แนะนำ)
+- Python 3.7+
+- Root privileges (สำหรับ packet capture)
+
+Dependencies
+# อัปเดท system
+sudo apt update
+
+# ติดตั้ง Python packages
+pip3 install -r requirements.txt
+
+# ตรวจสอบ tools ที่จำเป็น (มักมีอยู่แล้วใน Kali)
+which nmap hping3 dig curl
