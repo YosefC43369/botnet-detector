@@ -32,7 +32,7 @@ $ which nmap hping3 dig curl
 # Clone Repository
 
 ```bash
-$ git clone https://github.com/yourusername/botnet-detector.git
+$ git clone https://github.com/YosefC43369/botnet-detector.git
 $ cd botnet-detector
 $ chmod +x botnet_detector.py
 ```
